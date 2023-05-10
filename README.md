@@ -10,7 +10,7 @@
 
 
 ### Project plan:
-Wednesday: Familiarising with data, wrangling and cleaning. 
+Wednesday: Familiarising with data, wrangling and cleaning, preparing for analysis.
 
 Thursday: Cohort Analysis
 
